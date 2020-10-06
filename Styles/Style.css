@@ -8,7 +8,26 @@ hr{
     border-style:none;
     border-top-style:dotted;
     border-width:5px;
-    width:90%;
+    width:100%;
 }
 
+/*img{
+    border-radius:20%;
+    background-color:orange;
+    border-style:dotted;
+    border-width:5px; 
+}
+   
+*/
 
+.luigi{
+    border-radius: 20%;
+    border-style: dashed;
+    border-width: 5px;
+}
+
+.mario{
+    border-radius: 20%;
+    border-style:double;
+    border-width: 5px;
+}
