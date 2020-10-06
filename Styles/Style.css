@@ -1,0 +1,14 @@
+body{
+    background-color:#edcfa9;
+    text-align:center;
+}
+
+hr{
+    background-color:orange;
+    border-style:none;
+    border-top-style:dotted;
+    border-width:5px;
+    width:90%;
+}
+
+
